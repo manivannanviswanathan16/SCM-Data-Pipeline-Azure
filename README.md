@@ -19,7 +19,6 @@ As an Operations Manager, I identified a need for real-time visibility into ship
 - **KPI Tracking:** Real-time monitoring of "Scheduled vs. Real" shipping days.
 
 ## 📊 Dashboard Preview
-*Insert your Power BI Screenshot here*
 > **Insight:** Identified that [Category Name] had a 1.5-day variance in shipping, leading to targeted warehouse process improvements.
 
 <img width="2308" height="1303" alt="Screenshot 2026-01-22 153152" src="https://github.com/user-attachments/assets/663d32bd-1cdf-463e-a8ec-adcf76bc39c6" />
